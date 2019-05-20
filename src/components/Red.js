@@ -7,5 +7,5 @@ export default function Red() {
     height: '100vh'
   };
 
-  return <div style={style}></div>
+  return <div style={style}></div>;
 }
