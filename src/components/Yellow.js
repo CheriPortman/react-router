@@ -1,11 +1,12 @@
 import React from 'react';
 
-export default function Blue() {
+export default function Yellow() {
   const style = {
-    backgroundColor: 'blue',
+    backgroundColor: 'yellow',
     width: '100vw',
     height: '100vh'
   };
 
   return <div style={style}></div>;
 }
+
