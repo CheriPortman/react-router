@@ -13,7 +13,7 @@ exports[`App componenet renders the app 1`] = `
       path="/blue"
     />
     <Route
-      componenet={[Function]}
+      component={[Function]}
       path="/yellow"
     />
   </Switch>
